@@ -1,0 +1,19 @@
+{
+  "name": "cursodti",
+  "version": "1.0.0",
+  "description": "ejemplo para explicar el funcionamiento de un api con nodejs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "entrenamiento",
+    "ejemplos"
+  ],
+  "author": "Saul Benavides",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.7.7"
+  }
+}
